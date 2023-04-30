@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Sản phẩm 3",
+      "price": 700,
+      "image": "https://picsum.photos/200/300",
+      "description": "Hello xin chao các bạn mình là Hiệp ",
+      "categoryId": "id cua danh mục"
+    },
+    {
+      "id": 1,
+      "name": "Sản phẩm 3",
+      "price": 700,
+      "image": "https://picsum.photos/200/300?grayscale",
+      "description": "Hello xin chao các bạn mình là Hiệp ",
+      "categoryId": "id cua danh mục"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 3",
+      "price": 700,
+      "image": "https://picsum.photos/200/300",
+      "description": "Hello xin chao các bạn mình là Hiệp ",
+      "categoryId": "id cua danh mục"
+    }
+  ]
+}
